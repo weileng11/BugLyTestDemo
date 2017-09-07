@@ -13,7 +13,7 @@ public class BugClass {
 //       String str = null;
         Log.e("zhang", "BugClass --> bug--> str length :" + str.length());
 //        return str + "  , fixed!!!";
-//        return "一切都已经无法改变了，也没有办法改变了";
-        return "888888888888888888888888888888888";
+        return "一切都已经无法改变了，也没有办法改变了";
+//        return "888888888888888888888888888888888";
     }
 }
